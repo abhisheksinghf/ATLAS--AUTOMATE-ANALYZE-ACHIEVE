@@ -129,14 +129,12 @@ This README provides an overview of the University Management System, detailing 
 ### FACULTY
 
 #### Screenshots
-- ![Change Password](screenshots/Faculty/change pwd.png)  
-  *Description*: Screen for changing faculty password.
+  
+- ![Faculty Login](screenshots/Faculty/faciltylogin.png)  
+  *Description*: Login screen for faculty access.
 
 - ![Dashboard Overview](screenshots/Faculty/dash.png)  
   *Description*: Overview of the faculty dashboard.
-
-- ![Faculty Login](screenshots/Faculty/facilty login.png)  
-  *Description*: Login screen for faculty access.
 
 - ![Statistics](screenshots/Faculty/stats.png)  
   *Description*: Statistics interface for faculty.
@@ -144,32 +142,34 @@ This README provides an overview of the University Management System, detailing 
 - ![Student Management](screenshots/Faculty/student.png)  
   *Description*: Student management interface.
 
+
 ### FILE UPLOAD MODULE
 
 #### Screenshots
+- ![Main Interface](screenshots/Fileupload/main.png)  
+  *Description*: Main interface for Fileupload module.
+
 - ![Browse Files](screenshots/Fileupload/browse.png)  
   *Description*: File browsing interface.
 
 - ![Folder Management](screenshots/Fileupload/folder.png)  
-  *Description*: Folder management interface.
+  *Description*: Create Folder.
 
-- ![Main Interface](screenshots/Fileupload/main.png)  
-  *Description*: Main interface for Fileupload module.
 
 - ![Move Files](screenshots/Fileupload/move.png)  
-  *Description*: Interface for moving files.
+  *Description*: Move Files.
 
-- ![Offer Letter Upload](screenshots/Fileupload/offer letter.png)  
-  *Description*: Offer letter upload interface.
+- ![Offer Letter Upload](screenshots/Fileupload/offerletter.png)  
+  *Description*: Unrecognized Offer Letter.
 
 - ![Rename Files](screenshots/Fileupload/rename.png)  
-  *Description*: Interface for renaming files.
+  *Description*: Rename Files.
 
-- ![Upload Success](screenshots/Fileupload/upload success.png)  
-  *Description*: Success message after Fileupload.
-
+- ![Upload Success](screenshots/Fileupload/uploadsuccess.png)  
+  *Description*: Success message after Fileupload
+  .
 - ![Zip File Management](screenshots/Fileupload/zip.png)  
-  *Description*: Interface for managing zip files.
+  *Description*: Download recognized files into zip.
 
 ---
 
