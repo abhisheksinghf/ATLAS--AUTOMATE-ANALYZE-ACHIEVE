@@ -9,7 +9,7 @@ ATLAS simplifies the complex tasks of categorizing and understanding placement l
 
 Our platform is built to enhance both the efficiency and effectiveness of placement management, ensuring a seamless experience for all users involved.
 
-- ![Login Screen](screenshots/Admin/landing.png) 
+![Login Screen](screenshots/Admin/landing.png) 
 
 ## Key Features ✨
 
