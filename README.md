@@ -22,10 +22,18 @@ Our platform is built to enhance both the efficiency and effectiveness of placem
 ## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend Framework**: Bootstrap
+- **Backend**: Node.js
+- **Backend Frameworks**: Express.js (for API development), Angular.js (for frontend application structure)
+- **Libraries**: pdf.js (for handling PDF documents), JWT (for authentication and authorization)
+- **Database**: MySQL
 
 ## Modules
+
+- 🛠️ **Admin Module**
+- 📚 **Coordinator Module**
+- 🎓 **Faculty Module**
+- 📂 **File Upload Module**
 
 - ![Module Management](screenshots/Admin/modules.png)  
   *Description*: Select the module to sign in.
