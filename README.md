@@ -176,3 +176,18 @@ Our platform is built to enhance both the efficiency and effectiveness of placem
 
 - ![Zip File Management](screenshots/Fileupload/zip.png)  
   *Description*: Download recognized files into zip.
+
+
+## Our Team
+
+- **[Abhisheksingh Fulanekar](https://github.com/abhisheksinghf)**
+- **[Shridhari Hegde](https://github.com/Shridharihegde)**
+- **[Mallikarjun Hiremath](https://github.com/MallikarjunHiremath018)**
+- **[Sahitya Nayak](https://github.com/sahityanayak)**
+
+
+Visit our website: [ATLAS Web App](https://atlas-webapp.netlify.app/)
+
+Follow us on Instagram: [@atlas_webapp](https://www.instagram.com/atlas_webapp/)
+
+Thank you !!
