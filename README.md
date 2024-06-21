@@ -146,30 +146,30 @@ This README provides an overview of the University Management System, detailing 
 ### FILE UPLOAD MODULE
 
 #### Screenshots
-- ![Browse Files](screenshots/File upload/browse.png)  
+- ![Browse Files](screenshots/Fileupload/browse.png)  
   *Description*: File browsing interface.
 
-- ![Folder Management](screenshots/File upload/folder.png)  
+- ![Folder Management](screenshots/Fileupload/folder.png)  
   *Description*: Folder management interface.
 
-- ![Main Interface](screenshots/File upload/main.png)  
-  *Description*: Main interface for file upload module.
+- ![Main Interface](screenshots/Fileupload/main.png)  
+  *Description*: Main interface for Fileupload module.
 
-- ![Move Files](screenshots/File upload/move.png)  
+- ![Move Files](screenshots/Fileupload/move.png)  
   *Description*: Interface for moving files.
 
-- ![Offer Letter Upload](screenshots/File upload/offer letter.png)  
+- ![Offer Letter Upload](screenshots/Fileupload/offer letter.png)  
   *Description*: Offer letter upload interface.
 
-- ![Rename Files](screenshots/File upload/rename.png)  
+- ![Rename Files](screenshots/Fileupload/rename.png)  
   *Description*: Interface for renaming files.
 
-- ![Upload Success](screenshots/File upload/upload success.png)  
-  *Description*: Success message after file upload.
+- ![Upload Success](screenshots/Fileupload/upload success.png)  
+  *Description*: Success message after Fileupload.
 
-- ![Zip File Management](screenshots/File upload/zip.png)  
+- ![Zip File Management](screenshots/Fileupload/zip.png)  
   *Description*: Interface for managing zip files.
 
 ---
 
-This README file now correctly references the screenshots stored in their respective module folders (`Admin`, `Coordinator`, `Faculty`, `File upload`). Adjust these paths further if the actual folder names differ in your project structure.
+This README file now correctly references the screenshots stored in their respective module folders (`Admin`, `Coordinator`, `Faculty`, `Fileupload`). Adjust these paths further if the actual folder names differ in your project structure.
