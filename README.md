@@ -1,4 +1,4 @@
-Certainly! Here's a README file structured as per your request:
+Certainly! Here's the revised README file with updated paths for each module's screenshots:
 
 ---
 
@@ -23,153 +23,153 @@ This README provides an overview of the University Management System, detailing 
 ### ADMIN
 
 #### Screenshots
-- ![Admin Dashboard](screenshots/admin-dash-dropdown.png)  
+- ![Admin Dashboard](screenshots/Admin/admin-dash-dropdown.png)  
   *Description*: Dashboard view with dropdown menu for navigation.
 
-- ![Activity Management](screenshots/activity.png)  
+- ![Activity Management](screenshots/Admin/activity.png)  
   *Description*: Interface for managing activities.
 
-- ![Batch Management](screenshots/batch.png)  
+- ![Batch Management](screenshots/Admin/batch.png)  
   *Description*: Batch management interface.
 
-- ![Change Password](screenshots/changepwd.png)  
+- ![Change Password](screenshots/Admin/changepwd.png)  
   *Description*: Screen for changing admin password.
 
-- ![Company Management](screenshots/company.png)  
+- ![Company Management](screenshots/Admin/company.png)  
   *Description*: Company management interface.
 
-- ![Dashboard Overview](screenshots/dash.png)  
+- ![Dashboard Overview](screenshots/Admin/dash.png)  
   *Description*: Overview of the admin dashboard.
 
-- ![Department Management](screenshots/dept.png)  
+- ![Department Management](screenshots/Admin/dept.png)  
   *Description*: Department management interface.
 
-- ![Filter Options](screenshots/filter.png)  
+- ![Filter Options](screenshots/Admin/filter.png)  
   *Description*: Filtering options interface.
 
-- ![Login Screen](screenshots/login.png)  
+- ![Login Screen](screenshots/Admin/login.png)  
   *Description*: Login screen for admin access.
 
-- ![Module Management](screenshots/modules.png)  
+- ![Module Management](screenshots/Admin/modules.png)  
   *Description*: Module management interface.
 
-- ![Profile Management](screenshots/profile.png)  
+- ![Profile Management](screenshots/Admin/profile.png)  
   *Description*: Admin profile management interface.
 
-- ![User Management](screenshots/user.png)  
+- ![User Management](screenshots/Admin/user.png)  
   *Description*: User management interface.
 
 ### COORDINATOR
 
 #### Screenshots
-- ![Activity Management](screenshots/activity.png)  
+- ![Activity Management](screenshots/Coordinator/activity.png)  
   *Description*: Activity management interface.
 
-- ![Add Student](screenshots/add student.png)  
+- ![Add Student](screenshots/Coordinator/add student.png)  
   *Description*: Interface for adding new students.
 
-- ![Advanced Filtering](screenshots/adv filter.png)  
+- ![Advanced Filtering](screenshots/Coordinator/adv filter.png)  
   *Description*: Advanced filtering options interface.
 
-- ![Batch Report](screenshots/batch report.png)  
+- ![Batch Report](screenshots/Coordinator/batch report.png)  
   *Description*: Batch report generation interface.
 
-- ![Change Password](screenshots/changepwd.png)  
+- ![Change Password](screenshots/Coordinator/changepwd.png)  
   *Description*: Screen for changing coordinator password.
 
-- ![Cutoff Management](screenshots/cutoff.png)  
+- ![Cutoff Management](screenshots/Coordinator/cutoff.png)  
   *Description*: Cutoff management interface.
 
-- ![Dashboard Overview](screenshots/dash.png)  
+- ![Dashboard Overview](screenshots/Coordinator/dash.png)  
   *Description*: Overview of the coordinator dashboard.
 
-- ![Export to Excel](screenshots/exp xls.png)  
+- ![Export to Excel](screenshots/Coordinator/exp xls.png)  
   *Description*: Export data to Excel interface.
 
-- ![Export to PDF](screenshots/export pdf.png)  
+- ![Export to PDF](screenshots/Coordinator/export pdf.png)  
   *Description*: Export data to PDF interface.
 
-- ![Login Screen](screenshots/login.png)  
+- ![Login Screen](screenshots/Coordinator/login.png)  
   *Description*: Login screen for coordinator access.
 
-- ![Offer Management](screenshots/offer.png)  
+- ![Offer Management](screenshots/Coordinator/offer.png)  
   *Description*: Offer management interface.
 
-- ![Placement Manager](screenshots/place manager 2.png)  
+- ![Placement Manager](screenshots/Coordinator/place manager 2.png)  
   *Description*: Placement manager interface.
 
-- ![Placed Details](screenshots/placed details.png)  
+- ![Placed Details](screenshots/Coordinator/placed details.png)  
   *Description*: Interface displaying placement details.
 
-- ![Placement Manager](screenshots/placement manager.png)  
+- ![Placement Manager](screenshots/Coordinator/placement manager.png)  
   *Description*: Placement manager interface.
 
-- ![Profile Management](screenshots/profile.png)  
+- ![Profile Management](screenshots/Coordinator/profile.png)  
   *Description*: Coordinator profile management interface.
 
-- ![Statistics GUI](screenshots/stats gui.png)  
+- ![Statistics GUI](screenshots/Coordinator/stats gui.png)  
   *Description*: GUI for displaying statistics.
 
-- ![Statistics](screenshots/stats.png)  
+- ![Statistics](screenshots/Coordinator/stats.png)  
   *Description*: Statistics interface.
 
-- ![Student Display](screenshots/studentdispl.png)  
+- ![Student Display](screenshots/Coordinator/studentdispl.png)  
   *Description*: Student display interface.
 
-- ![Student Information](screenshots/stuudentinfo.png)  
+- ![Student Information](screenshots/Coordinator/stuudentinfo.png)  
   *Description*: Interface for student information.
 
-- ![Visualization](screenshots/visu.png)  
+- ![Visualization](screenshots/Coordinator/visu.png)  
   *Description*: Data visualization interface.
 
-- ![Visualize Data](screenshots/visualize.png)  
+- ![Visualize Data](screenshots/Coordinator/visualize.png)  
   *Description*: Interface for visualizing data.
 
 ### FACULTY
 
 #### Screenshots
-- ![Change Password](screenshots/change pwd.png)  
+- ![Change Password](screenshots/Faculty/change pwd.png)  
   *Description*: Screen for changing faculty password.
 
-- ![Dashboard Overview](screenshots/dash.png)  
+- ![Dashboard Overview](screenshots/Faculty/dash.png)  
   *Description*: Overview of the faculty dashboard.
 
-- ![Faculty Login](screenshots/facilty login.png)  
+- ![Faculty Login](screenshots/Faculty/facilty login.png)  
   *Description*: Login screen for faculty access.
 
-- ![Statistics](screenshots/stats.png)  
+- ![Statistics](screenshots/Faculty/stats.png)  
   *Description*: Statistics interface for faculty.
 
-- ![Student Management](screenshots/student.png)  
+- ![Student Management](screenshots/Faculty/student.png)  
   *Description*: Student management interface.
 
 ### FILE UPLOAD MODULE
 
 #### Screenshots
-- ![Browse Files](screenshots/browse.png)  
+- ![Browse Files](screenshots/File upload/browse.png)  
   *Description*: File browsing interface.
 
-- ![Folder Management](screenshots/folder.png)  
+- ![Folder Management](screenshots/File upload/folder.png)  
   *Description*: Folder management interface.
 
-- ![Main Interface](screenshots/main.png)  
+- ![Main Interface](screenshots/File upload/main.png)  
   *Description*: Main interface for file upload module.
 
-- ![Move Files](screenshots/move.png)  
+- ![Move Files](screenshots/File upload/move.png)  
   *Description*: Interface for moving files.
 
-- ![Offer Letter Upload](screenshots/offer letter.png)  
+- ![Offer Letter Upload](screenshots/File upload/offer letter.png)  
   *Description*: Offer letter upload interface.
 
-- ![Rename Files](screenshots/rename.png)  
+- ![Rename Files](screenshots/File upload/rename.png)  
   *Description*: Interface for renaming files.
 
-- ![Upload Success](screenshots/upload success.png)  
+- ![Upload Success](screenshots/File upload/upload success.png)  
   *Description*: Success message after file upload.
 
-- ![Zip File Management](screenshots/zip.png)  
+- ![Zip File Management](screenshots/File upload/zip.png)  
   *Description*: Interface for managing zip files.
 
 ---
 
-This README file provides a structured overview of the University Management System, including its features, technology stack, and modules with corresponding screenshots and brief descriptions. Adjust file paths and descriptions as necessary to match the actual setup of your system.
+This README file now correctly references the screenshots stored in their respective module folders (`Admin`, `Coordinator`, `Faculty`, `File upload`). Adjust these paths further if the actual folder names differ in your project structure.
