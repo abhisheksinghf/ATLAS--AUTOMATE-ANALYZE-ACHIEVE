@@ -56,7 +56,7 @@ This README provides an overview of the University Management System, detailing 
 - ![Filter Options](screenshots/Admin/filter.png)  
   *Description*: Filter placement records.
 
-- ![Activity Management](screenshots/Admin/activity.png)  
+- ![Activity Management](screenshots/Admin/actity.png)  
   *Description*: View login log/records.
 
 ### COORDINATOR
