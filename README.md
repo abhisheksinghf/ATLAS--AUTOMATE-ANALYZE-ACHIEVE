@@ -20,44 +20,44 @@ This README provides an overview of the University Management System, detailing 
 
 ## Modules
 
+- ![Module Management](screenshots/Admin/modules.png)  
+  *Description*: Select the module to sign in.
+
 ### ADMIN
 
 #### Screenshots
-- ![Admin Dashboard](screenshots/Admin/admin-dash-dropdown.png)  
-  *Description*: Dashboard view with dropdown menu for navigation.
-
-- ![Activity Management](screenshots/Admin/activity.png)  
-  *Description*: Interface for managing activities.
-
-- ![Batch Management](screenshots/Admin/batch.png)  
-  *Description*: Batch management interface.
-
-- ![Change Password](screenshots/Admin/changepwd.png)  
-  *Description*: Screen for changing admin password.
-
-- ![Company Management](screenshots/Admin/company.png)  
-  *Description*: Company management interface.
-
-- ![Dashboard Overview](screenshots/Admin/dash.png)  
-  *Description*: Overview of the admin dashboard.
-
-- ![Department Management](screenshots/Admin/dept.png)  
-  *Description*: Department management interface.
-
-- ![Filter Options](screenshots/Admin/filter.png)  
-  *Description*: Filtering options interface.
-
 - ![Login Screen](screenshots/Admin/login.png)  
   *Description*: Login screen for admin access.
 
-- ![Module Management](screenshots/Admin/modules.png)  
-  *Description*: Module management interface.
+- ![Dashboard Overview](screenshots/Admin/dash.png)  
+  *Description*: Overview of the ADMIN dashboard.
+
+- ![Admin Dashboard](screenshots/Admin/admin-dash-dropdown.png)  
+  *Description*: Update Dashboard based on academic year.
 
 - ![Profile Management](screenshots/Admin/profile.png)  
-  *Description*: Admin profile management interface.
+  *Description*: Admin Profile.
+
+- ![Change Password](screenshots/Admin/changepwd.png)  
+  *Description*: Change Password.
 
 - ![User Management](screenshots/Admin/user.png)  
-  *Description*: User management interface.
+  *Description*: Add Users (Admin,Faculty,Coordinator).
+
+- ![Batch Management](screenshots/Admin/batch.png)  
+  *Description*: Add Batches/Academic Year.
+
+- ![Company Management](screenshots/Admin/company.png)  
+  *Description*: Admin can add Companies.
+
+- ![Department Management](screenshots/Admin/dept.png)  
+  *Description*: Admin can add departments.
+
+- ![Filter Options](screenshots/Admin/filter.png)  
+  *Description*: Filter placement records.
+
+- ![Activity Management](screenshots/Admin/activity.png)  
+  *Description*: View login log/records.
 
 ### COORDINATOR
 
