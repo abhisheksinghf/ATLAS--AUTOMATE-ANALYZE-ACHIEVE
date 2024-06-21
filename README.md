@@ -62,68 +62,69 @@ This README provides an overview of the University Management System, detailing 
 ### COORDINATOR
 
 #### Screenshots
-- ![Activity Management](screenshots/Coordinator/activity.png)  
-  *Description*: Activity management interface.
-
-- ![Add Student](screenshots/Coordinator/add student.png)  
-  *Description*: Interface for adding new students.
-
-- ![Advanced Filtering](screenshots/Coordinator/adv filter.png)  
-  *Description*: Advanced filtering options interface.
-
-- ![Batch Report](screenshots/Coordinator/batch report.png)  
-  *Description*: Batch report generation interface.
-
-- ![Change Password](screenshots/Coordinator/changepwd.png)  
-  *Description*: Screen for changing coordinator password.
-
-- ![Cutoff Management](screenshots/Coordinator/cutoff.png)  
-  *Description*: Cutoff management interface.
-
-- ![Dashboard Overview](screenshots/Coordinator/dash.png)  
-  *Description*: Overview of the coordinator dashboard.
-
-- ![Export to Excel](screenshots/Coordinator/exp xls.png)  
-  *Description*: Export data to Excel interface.
-
-- ![Export to PDF](screenshots/Coordinator/export pdf.png)  
-  *Description*: Export data to PDF interface.
-
 - ![Login Screen](screenshots/Coordinator/login.png)  
   *Description*: Login screen for coordinator access.
 
-- ![Offer Management](screenshots/Coordinator/offer.png)  
-  *Description*: Offer management interface.
+  - ![Dashboard Overview](screenshots/Coordinator/dash.png)  
+  *Description*: Overview of the coordinator dashboard. 
 
-- ![Placement Manager](screenshots/Coordinator/place manager 2.png)  
-  *Description*: Placement manager interface.
+  - ![Profile Management](screenshots/Coordinator/profile.png)  
+  *Description*: Coordinator profile section.
 
-- ![Placed Details](screenshots/Coordinator/placed details.png)  
-  *Description*: Interface displaying placement details.
+- ![Add Student](screenshots/Coordinator/addstu.png)  
+  *Description*: Coordinator can add students or import student data from excel file.
 
-- ![Placement Manager](screenshots/Coordinator/placement manager.png)  
-  *Description*: Placement manager interface.
-
-- ![Profile Management](screenshots/Coordinator/profile.png)  
-  *Description*: Coordinator profile management interface.
-
-- ![Statistics GUI](screenshots/Coordinator/stats gui.png)  
-  *Description*: GUI for displaying statistics.
-
-- ![Statistics](screenshots/Coordinator/stats.png)  
-  *Description*: Statistics interface.
 
 - ![Student Display](screenshots/Coordinator/studentdispl.png)  
   *Description*: Student display interface.
+  
+- ![Export to Excel](screenshots/Coordinator/expxls.png)  
+  *Description*: Export data to Excel.
 
+- ![Update Student](screenshots/Coordinator/updatestu.png)  
+  *Description*: Coordinator can update student data.
+
+  
 - ![Student Information](screenshots/Coordinator/stuudentinfo.png)  
-  *Description*: Interface for student information.
+  *Description*: View Detailed Student Information.
 
-- ![Visualization](screenshots/Coordinator/visu.png)  
-  *Description*: Data visualization interface.
+
+- ![Placement Manager](screenshots/Coordinator/placmanager.png)  
+  *Description*: Coordinator can add placed details.
+
+- ![Placed Details](screenshots/Coordinator/placmanager2.png)  
+  *Description*: Coordinator can view/update/delete placement details.
+  
+- ![Offer Management](screenshots/Coordinator/offer.png)  
+  *Description*: Assign Offer Letter Details to stdents.
+
+
+- ![Cutoff Management](screenshots/Coordinator/cutoff.png)  
+  *Description*: Retrive students based on cgpa cutoff.
+
+- ![Advanced Filtering](screenshots/Coordinator/advfilter.png)  
+  *Description*: Fetch any data using advanced filtering.
+
+- ![Batch Report](screenshots/Coordinator/batchreport.png)  
+  *Description*: Automated Student Placement Report Generation.
+
+- ![Generated Report](screenshots/Coordinator/excelstu.png)  
+  *Description*: Generated Report.
+
+
+- ![Statistics GUI](screenshots/Coordinator/statsgui.png)  
+  *Description*: Fetch Statistics based on academic year.
+
+
+- ![Statistics](screenshots/Coordinator/stats.png)  
+  *Description*: Export Placement Summary to PDF Format.
 
 - ![Visualize Data](screenshots/Coordinator/visualize.png)  
-  *Description*: Interface for visualizing data.
+  *Description*: Visualize Data into various formats.
+
+- ![Activity Management](screenshots/Coordinator/activity.png)  
+  *Description*: Activity management interface.
+
 
 ### FACULTY
 
