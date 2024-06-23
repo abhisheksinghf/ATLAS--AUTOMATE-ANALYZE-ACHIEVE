@@ -30,6 +30,9 @@ Our platform is built to enhance both the efficiency and effectiveness of placem
 - **Libraries**: pdf.js (for handling PDF documents), JWT (for authentication and authorization)
 - **Database**: MySQL
 
+## Main Repository(Private)
+![Main Project Repo](screenshots/Admin/main-repo.png)  
+
 ## Modules
 
 - 🛠️ **Admin Module**
@@ -39,9 +42,6 @@ Our platform is built to enhance both the efficiency and effectiveness of placem
 
 ![Module Management](screenshots/Admin/modules.png)  
   *Description*: Select the module to sign in.
-
-## Main Repository(Private)
-![Main Project Repo](screenshots/Admin/main-repo.png)  
 
 ### ADMIN
 
