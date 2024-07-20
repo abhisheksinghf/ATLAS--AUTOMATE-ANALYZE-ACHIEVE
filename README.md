@@ -9,6 +9,8 @@ ATLAS simplifies the complex tasks of categorizing and understanding placement l
 
 Our platform is built to enhance both the efficiency and effectiveness of placement management, ensuring a seamless experience for all users involved.
 
+Website : https://atlas-webapp.netlify.app/
+
 ![Login Screen](screenshots/Admin/landing.png) 
 
 ## Key Features ✨
